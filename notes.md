@@ -2,6 +2,7 @@
     rails generate -h
 
 - scaffold (NOT ALLOWED FOR PROJECT)
+    rails g scaffold
 - resource (model, controller, migration)
 - controller
 - migration
